@@ -110,3 +110,54 @@ footer{
     box-sizing: border-box;
     width: 50px;
 }
+
+
+.name{
+    
+    margin: 500px 800px;
+    text-align: center;
+    padding: 50px 50px;
+    background-color: #99ffff;
+    border-radius: 50px;
+    
+}
+.box1{
+    background-color:#006666;
+    padding: 50px 50px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+
+}
+.box2{
+    background-color: #00cccc;
+    /* color: red; */
+    padding: 50px 50px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+
+}
+.box3{
+    background-color:#00ffff;
+    /* color: green; */
+    padding: 50px 50px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+.box4{
+    background-color: #33ffff;
+    /* color: yellowgreen; */
+    padding: 50px 50px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+.box5{
+    background-color: #009999;
+    /* color: tomato; */
+    padding: 50px 50px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+.box5:hover,.box1:hover,.box3:hover,.box4:hover,.box2:hover{
+    transform: scale(1.1, 1);
+}
+
